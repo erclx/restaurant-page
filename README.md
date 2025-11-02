@@ -6,7 +6,7 @@ A dynamic single-page restaurant website built as part of [The Odin Project's Ja
 
 ## Screenshot
 
-<div align="center">;
+<div align="center">
   <img src="public/assets/images/demo.png" alt="Restaurant Page Demo">
 </div>
 
