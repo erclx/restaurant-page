@@ -14,7 +14,7 @@ A dynamic single-page restaurant website built as part of [The Odin Project's Ja
 
 ## Live Demo
 
-[View the Live Restaurant](https://ar1ze.github.io/restaurant-page/)
+[View the Live Restaurant](https://erclx.github.io/restaurant-page/)
 
 -----
 
